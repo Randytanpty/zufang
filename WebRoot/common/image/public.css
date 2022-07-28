@@ -1,0 +1,78 @@
+BODY {
+	MARGIN: 0px
+}
+.high {
+	LINE-HEIGHT: 20px
+}
+TD {
+	FONT-SIZE: 12px
+}
+.font-cu {
+	FONT-WEIGHT: bold
+}
+.font-hui {
+	COLOR: #a6a6a6
+}
+.font-14 {
+	FONT-SIZE: 14px
+}
+.font-16 {
+	FONT-SIZE: 16px
+}
+.font-13 {
+	FONT-SIZE: 13px
+}
+.font-bai {
+	COLOR: #ffffff
+}
+.font-hong {
+	COLOR: #ff0000
+}
+A:link {
+	COLOR: #323333; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #323333; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #bc2931; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #323333; TEXT-DECORATION: none
+}
+A.bai:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.bai:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.bai:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+A.bai:active {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.huang:link {
+	COLOR: #ff6500; TEXT-DECORATION: none
+}
+A.huang:visited {
+	COLOR: #ff6500; TEXT-DECORATION: none
+}
+A.huang:hover {
+	COLOR: #ff6500; TEXT-DECORATION: underline
+}
+A.huang:active {
+	COLOR: #ff6500; TEXT-DECORATION: none
+}
+A.linklan:link {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.linklan:visited {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}
+A.linklan:hover {
+	COLOR: #0000ff; TEXT-DECORATION: underline
+}
+A.linklan:active {
+	COLOR: #0000ff; TEXT-DECORATION: none
+}

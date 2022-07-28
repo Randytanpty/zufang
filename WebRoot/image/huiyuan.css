@@ -1,0 +1,21 @@
+.lan16cu {
+	COLOR: #007bbb; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.lan14cu {
+	COLOR: #007bbb; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.hei14cu {
+	COLOR: #000000; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+A.lan:link {
+	COLOR: #007bbb; TEXT-DECORATION: none
+}
+A.lan:visited {
+	COLOR: #007bbb; TEXT-DECORATION: none
+}
+A.lan:hover {
+	COLOR: #007bbb; TEXT-DECORATION: underline
+}
+A.lan:active {
+	COLOR: #007bbb; TEXT-DECORATION: none
+}
